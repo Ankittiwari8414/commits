@@ -20,4 +20,4 @@ def make_commits(num_commits: int):
     os.system('git push')
 
 # Call the function with the desired number of commits
-make_commits(10)
+make_commits(15)
